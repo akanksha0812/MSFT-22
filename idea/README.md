@@ -1,6 +1,6 @@
 
 AIM-
-We aim to make women feel as strong,safe and secure to fight the parasites of our society, odds, and protect themselves against any sexual assaults. We aim at giving power to those without whom we cease to exist. Our idea is to design a Website which shall make every place and every hour safer for women . A Website which shall re-establish how very gregarious mankind is. And also there is section for women health ,in which they might find relevent ideas for their healthy diet . for more details checkout the website.
+We aim to make women feel strong , safe and secure to fight the parasites of our society, and protect themselves against any sexual assaults. We aim at giving power to those without whom we cease to exist. Our idea is to design a Website which shall make every place and every hour safer for women . A Website which shall re-establish how very gregarious mankind is. And also there is section for women health ,in which they might find some relevent ideas for their healthy diet . for more details checkout the website.
 
 OBJECTIVE-
 Our platform will act as a 24/7 active help and companion for women so that they don’t ever feel that they are alone in the middle of a crisis situation.
