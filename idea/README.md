@@ -13,7 +13,8 @@ On the user app, there will be a navigation drawer which shall hold the basic de
 
 OUR WEBSITE LOOK LIKE THIS-(here i'm attaching a small screenshot of landing page , the full website can be seen using the source code)
 
-![ss1](https://user-images.githubusercontent.com/90760374/174635891-ceccde01-1690-4a17-84ad-a66d81c6868b.jpeg)
+![ss2](https://user-images.githubusercontent.com/90760374/174637689-81fcc857-5515-4664-81b1-a4881012e26d.png)
+
 
 EMERGENCY BUTTON- On clicking this button the app sends in a distress message and a live location of the user to the nearest police station and to the ones selected as “close contacts”. The app will also send in a distress message and a live location link to all mobile phones then residing within a given radius from the location of the user. In case the user clicks the button while in a public transport, the system recognises the vehicle and marks it red on the map which is being monitored by the police.
 Navigation Drawer: The user can change their basic information and add/change their close contacts in this drawer.
