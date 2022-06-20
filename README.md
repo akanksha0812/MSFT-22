@@ -1,1 +1,1 @@
-#Microsoft Azure Women's Hackathon 2022
+Microsoft Azure Women's Hackathon 2022
