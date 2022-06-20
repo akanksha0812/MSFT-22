@@ -20,3 +20,7 @@ EMERGENCY BUTTON- On clicking this button the app sends in a distress message an
 Navigation Drawer: The user can change their basic information and add/change their close contacts in this drawer.
 
 The concerned authorities will be operating using a web portal where they shall have access to the digital map for user locations and to monitor public transport locations and shall be authorised to view the live CCTV footage of any vehicle at any point of time. Police can acknowledge their arrival to a user when a distress call arises in their watch.
+
+SOS call interface -
+
+![SOS call ss](https://user-images.githubusercontent.com/90760374/174646211-a078061f-f02d-40d7-8a80-635d5b6bc64f.jpeg)
