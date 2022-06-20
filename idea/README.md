@@ -11,6 +11,7 @@ The users need to register themselves on the app by creating their own account. 
 Services include an automated distress SOS to the nearest police station and to her emergency contacts, not only this the app will also automatically send in distress signals to the nearby people within a specified radius with a live location. We also look forward to ensure women safety in public transport, we propose that every public transport is it a bus, cab or an autorickshaw shall be fitted with a GPS device which will be monitored by the police at all times.
 On the user app, there will be a navigation drawer which shall hold the basic details of the user and the screen other than that shall hold only one big button which shall be the panic button/Emergency button.
 
+OUR WEBSITE LOOK LIKE THIS-(here i'm attaching a small screenshot of landing page , the full website can be seen using the source code)
 
 ![ss1](https://user-images.githubusercontent.com/90760374/174635891-ceccde01-1690-4a17-84ad-a66d81c6868b.jpeg)
 
